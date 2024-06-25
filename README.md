@@ -1,2 +1,2 @@
 # Celestial-Bodies-Database
-FreeCodeCamp project
+FreeCodeCamp certification project
